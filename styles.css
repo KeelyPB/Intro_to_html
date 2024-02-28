@@ -1,0 +1,11 @@
+h2{
+    Color: blue;
+    font-style: italic;
+    font-size: 20px;
+}
+#first-id{
+    align-content: right;
+}
+*{
+    background-color: peachpuff;
+}
