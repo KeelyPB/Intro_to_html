@@ -1,3 +1,6 @@
+*{
+    background-color: #b9eaff;
+}
 h2{
     Color: blue;
     font-style: italic;
@@ -6,6 +9,6 @@ h2{
 #first-id{
     align-content: right;
 }
-*{
-    background-color: peachpuff;
+.second{
+width: 200px;
 }
