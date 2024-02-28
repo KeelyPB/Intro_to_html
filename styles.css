@@ -1,6 +1,6 @@
-*{
+*/*{
     background-color: #b9eaff;
-}
+}*/
 h2{
     Color: blue;
     font-style: italic;
@@ -10,5 +10,29 @@ h2{
     align-content: right;
 }
 .second{
-width: 200px;
+    padding-left: 20px;
+}
+body{
+    background-image: url(/images/bgd\ img.jpeg);
+    background-repeat: no-repeat;
+    background-image: fill;
+    background-size: cover;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+p{
+    margin: 10px;
+}
+ul {
+    list-style-type: circle;
+    list-style-position: outside;
+    margin: 0;
+    padding: 0;
+  }
+ol {
+    list-style-type: square;
+    list-style-position: outside;
+    margin: 0;
+    padding: 0;
 }
